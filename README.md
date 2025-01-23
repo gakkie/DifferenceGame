@@ -1,0 +1,2 @@
+# DifferenceGame
+生成AIでAndroidアプリを作ってみるテスト
