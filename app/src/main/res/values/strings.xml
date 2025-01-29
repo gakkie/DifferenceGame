@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DifferenceGame</string>
+    <string name="desc_image_left">左側の画像</string>
+    <string name="desc_image_right">右側の画像</string>
 </resources>
